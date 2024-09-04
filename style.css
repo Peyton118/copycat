@@ -1,0 +1,102 @@
+.body {
+  background-image: url("images/abc-background-web.webp");
+  font-family: sans-serif;
+  font-size: 10pt;
+}
+
+.top-logo-cont {
+  display: flex;
+  justify-content: center;
+}
+
+.top-logo {
+  width: 9%;
+  margin: 5% 0% 3% 0%;
+}
+
+.middle-box-cont {
+  display: flex;
+  justify-content: center;
+}
+
+.middle-box {
+  background-color: rgb(37, 37, 38);
+  border-radius: 5%;
+  width: 450pt;
+  height: 450pt;
+}
+
+.mydisney {
+  width: 25%;
+  margin: 7% 6% 0% 7%;
+}
+
+.header {
+  color: white;
+  margin: 0% 12% 4%;
+}
+
+.paragraph {
+  color: white;
+  margin: 0% 12% 4%;
+}
+
+.input {
+  background-color: rgb(51, 51, 53);
+  width: 48vw;
+  height: 6vw;
+  font-size: 14px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+}
+
+.input-cont {
+  display: flex;
+  justify-content: center;
+}
+
+.button {
+    width: 450px;
+    height: 50px;
+    border-radius: 50px;
+    border: none;
+    background-color: white;
+    margin: 3% ;
+    font-weight: bold;
+    font-size: 11pt;
+}
+
+.button-cont {
+    display: flex;
+    justify-content: center;
+}
+
+
+.grey-line-cont {
+    display: flex;
+    justify-content: ceneter;
+}
+
+
+.grey-line-cont-main {
+    display: flex;
+    justify-content: center;
+}
+
+.words {
+    margin-left: 15%;
+    color: white;
+    font-size: 14px;
+}
+
+.cooler-words {
+    margin-left: 15%;
+    margin-right: 15%;
+    color: rgb(155, 157, 161);
+}
+
+.bottom-image {
+    margin-left: 90px;
+    width: 70%;
+}
